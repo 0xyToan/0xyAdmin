@@ -36,3 +36,7 @@ change le slowmode du salon, avec !slowmode 5
 
 
 Lien : https://top.gg/bot/839861146545946634#/
+
+
+
+Ne change rien :)
